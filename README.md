@@ -1,2 +1,2 @@
-# remix
+# Cryptocurrency Tracker Application
 Remix Framework
